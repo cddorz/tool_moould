@@ -1,4 +1,4 @@
-package comhly.config;
+package com.hly.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -9,6 +9,7 @@ import org.springframework.data.redis.serializer.RedisSerializer;
 import java.net.UnknownHostException;
 
 /**
+ * Redis序列化配置类
  * @author han long yi
  * @create 2021-03-19 18:50
  */
